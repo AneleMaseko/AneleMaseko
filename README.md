@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AneleMaseko
 - 👀 I’m interested in IT (software development, programming front-end and DevOps)
-- 🌱 I’m currently learning Java,C#, and React
+- 🌱 I’m currently learning Java,C#, and React.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
